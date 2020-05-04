@@ -42,3 +42,4 @@ Plug 'SirVer/ultisnips'
 Plug 'Yggdroot/LeaderF', { 'do': './install.sh' }
 Plug 'dyng/ctrlsf.vim'
 call plug#end()
+" Nghia dang trong mq required add commit
